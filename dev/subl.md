@@ -53,6 +53,10 @@
 
 `ctrl  command  上下` 移动某一行
 
+`鼠标左键 option` 列选择   `鼠标右键 shift`[win]
+
+`ctrl shift up` 列选择   `ctrl alt up`[win]
+
 
 ###Navigation
 
@@ -160,6 +164,15 @@ CTags是一个快速为代码生成索引的工具，通过其创建的索引，
 
 索引生成完成后，在subl中按住 `cmd+shift` 鼠标点击即可实现跳转。或者直接快捷键`ctrl + t`实现跳转。
 
+
+
+
+
+###Alignment
+代码对齐工具，可以写出等号排列整洁的处女座风格的代码。使用[](http://wbond.net/sublime_packages/alignment)。
+
+###DocBlockr
+代码注释工具，可以自动生成良好风格的注释模板。
 
 
 
